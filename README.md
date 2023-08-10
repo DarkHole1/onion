@@ -1,5 +1,19 @@
 This will be a collection of useful links on the onion network for osint. You can contribute to this collection by reporting a broken link or recommending your own finds. You can do this using the [Telegram bot](https://t.me/Nzlwpcuhrn_bot) or [Twitter](https://twitter.com/ScullyInt). Subscribe to [my Telegram channel](https://t.me/xbshsuwiow83). No leaks will be posted here (there are already many such lists), also no very valuable finds will be posted :)
 
+## Contents
+* [Catalogs](#catalogs)
+* [Chats](#chats)
+* [Dashboard](#dashboard)
+* [Forums](#forums)
+  * [Russia](#russia)
+  * [General](#general)
+  * [French](#french)
+  * [Polish](#polish)
+  * [Brazil](#brazil)
+* [Marketplaces](#marketplaces)
+* [Media](#media)
+* [Misc](#misc)
+
 ## Catalogs
 * http://torv5dp5n46htkqu42r3ywtt75ll2zu24a3yhcsgm6aslp43woclc2id.onion/ - link list v.3.2
 * http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/ - list Daniel Vinzen, German web developer
